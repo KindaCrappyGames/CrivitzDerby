@@ -15,5 +15,14 @@ const horse_array = [
     {img: "./resources/horse_images/final/stonewall_000.png", name: "Stonewall", owner: "Davie"},
     {img: "./resources/horse_images/final/nobody_cares.png", name: "Nobody Cares", owner: "Brendan"},
     {img: "./resources/horse_images/final/Raibow_sparkle.png", name: "Rainbow Sparkle", owner: "Cyndi"},
-
+    {img: "./resources/horse_images/final/arthur_horsegan.png", name: "Arthur Horsegan", owner: "Zucchini"},
+    {img: "./resources/horse_images/final/arthur_morgan.png", name: "Arthur Morgan", owner: "Carlos"},
+    {img: "./resources/horse_images/final/bob.png", name: "Bob", owner: "Ski"},
+    {img: "./resources/horse_images/final/elmers.png", name: "Elmers", owner: "Quinn"},
+    {img: "./resources/horse_images/final/hugsy.png", name: "Hugsy", owner: "Jenn"},
+    {img: "./resources/horse_images/final/ikea.png", name: "Ikea", owner: "Quinn"},
+    {img: "./resources/horse_images/final/platty.png", name: "Platty", owner: "Ski"},
+    {img: "./resources/horse_images/final/saweetie.png", name: "Saweetie", owner: "Ola"},
+    {img: "./resources/horse_images/final/Shitty_ponyta.png", name: "Shitty Ponyta", owner: "Zucchini"},
+    {img: "./resources/horse_images/final/Hand_Banana.png", name: "Hand Banana", owner: "Carl"},
 ];
